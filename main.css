@@ -1,0 +1,183 @@
+.book{
+text-align: center;
+}
+.novel{
+    
+    float: center;
+}
+
+
+
+#home{   
+    
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVqlYKuOcvWoQK6JQEDSiUUF3APhNiU4vXLg&usqp=CAU); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+}
+body{
+background-color: cadetblue;  
+  padding: 0;
+     margin: 0;
+    font-family:Arial
+
+}
+nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+    padding: 10px 90px;
+    box-sizing:border-box ;
+
+}
+nav ul{
+    list-style: none;
+    float: right;
+    margin: 0;
+    padding: 0;
+    display: flex;
+
+}
+ul li a{
+    text-decoration: none;
+
+}
+h1{
+    text-align: center;
+    /* text-decoration: bisque; */
+    
+} 
+
+
+img{
+    border-image-width: inherit;
+    shape-image-threshold: inherit;
+    width:300;
+    float: left;
+
+} 
+
+
+ .columnright{
+     float: left;   
+     display: flex; 
+    align-items: center;
+     font-size: larger;
+    font-style: normal; 
+    font: size10px;
+     padding-right: 30px;
+    float: right;
+    width: 60%;
+
+    
+    
+    
+} 
+.columnleft{
+    float: left;
+    width: 30%;
+}
+ /* .row::after{
+    content: "";
+    display: table;
+    clear: both;
+
+}   */
+  
+
+
+
+
+#contact{
+    
+    text-align: center;
+    text-transform: initial;
+    text-shadow: lightpink;
+    
+
+}
+.navbar{
+    text-decoration-color: brown;
+    color:white ;
+}
+
+
+
+
+.contact{
+    text-align: center;
+    float: center;
+    font-size: larger;
+    text-decoration-line: none;
+    text-emphasis-color: red;
+    margin-top: 5px;
+    color: black;
+    padding: 0cm;
+    margin-top: 470px;
+
+
+}
+footer{
+    text-align: center;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    margin-top: 80PX;
+    text-align: center;
+
+
+    
+    
+}
+#one{
+    text-align: center;
+}
+.two{
+    text-align: center;
+}
+
+#head{
+margin-right: 20;
+margin-left: 20;
+}
+.smry{
+    display: inline-table;
+    text-align: center;
+    font-size: large;
+    padding-left: 60px;
+    padding-right: 60px;
+    text-align:justify;
+}
+
+
+.box-img{
+
+    border-radius:100% ;
+    height: 200px;
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 550px;
+    
+}
+#head{
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+#one1{
+    margin-top: 20%;
+}
+
+.boxing{
+    
+    margin: auto;
+    margin-left: 40%;
+    align-items: center;
+    
+}
+#title{
+    margin-top: 30;
+}
